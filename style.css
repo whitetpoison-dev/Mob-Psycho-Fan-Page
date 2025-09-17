@@ -1,0 +1,43 @@
+*{
+    font-family: "Roboto", sans-serif;
+}
+.header{
+    text-align: center;
+    background-color:#f6f2ff;
+    padding-top: 20px;
+    padding-bottom: 15px;
+    
+}
+.navigation-div{
+    background-color: #ddd0fb;
+    margin-top: -20px;
+    text-align: center;
+}
+.navigation-bar>ul>li{
+    display: inline-block;
+    padding: 10px;
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+.content{
+    padding-left: 50px;
+}
+.footer{
+    background-color: #ddd0fb;
+    text-align: center;
+    padding: 5px;
+}
+.anime{
+    position: relative;
+    width: 500px;
+    left: 500px;
+    top: -125px;
+}
+img{
+    margin-bottom: -100px;
+}
+h1, h2{
+    color: #9277cc;
+}

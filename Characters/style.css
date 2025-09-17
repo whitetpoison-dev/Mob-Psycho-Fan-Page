@@ -1,0 +1,39 @@
+html{
+    font-family: "Roboto", sans-serif;
+    background-color: #efebfc;
+}
+h1, h2{
+    color: #7f51ba;
+}
+.header{
+    text-align: center;
+}
+img{
+    border-radius: 5%;
+}
+.page{
+    padding: 50px;
+    background-color: white;
+    border-radius: 2%;
+    margin-top: 10px;
+    width: 50%;
+    margin-left: 25%;
+    padding-top: 0px;
+}
+.top-header{
+    background-color: #9266d5;
+    color: white;
+    padding: 10px;
+    padding-left: 50px;
+    margin-left: -50px;
+    margin-right: -50px;
+    border-top-left-radius: 55;
+}
+.anime-fan-page{
+    background-color: #9266d5;
+    color: white;
+    padding: 7px;
+    margin-left: -50px;
+    margin-right: -50px;
+
+}
